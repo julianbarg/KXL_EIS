@@ -1,20 +1,22 @@
-**Greenhouse Gases and Global Warming**
+**3.2.2.4 Greenhouse Gases**
 
-In attempting to meet the purpose and need for the Keystone Project,
-construction and operation of the proposed Project would incrementally
-increase the cumulative impact of greenhouse gas emissions. The
-carbon emissions associated with construction and operation would
-occur irrespective of the routing of the pipeline. However, the
-ultimate construction and operation of the pipeline would offset
-potential emissions associated with other methodologies for meeting
-the demand for imported crude oil, such as delivery of crude oil by
-tanker from alternative international sources. Keystone has committed
-to restoration and replanting of vegetative cover along the proposed
-pipeline corridor to the extent compatible with safety and operational
-requirements. This commitment would allow any advantages associated
-with carbon sinks along the proposed corridor to be reestablished
-after temporary disruption during the construction phase. ‹Therefore,
-the incremental contribution to greenhouse gas emissions associated
-with construction and operation of the proposed Keystone is likely
-to be relatively small compared to the nationwide production of
-greenhouse gases on an annual basis.
+Carbon dioxide (CO2), methane (CH4), and NO2 are all naturally
+occurring greenhouse gases (GHGs) whose concentrations in the
+atmosphere have increased as a result of human activities since
+the dawn of the industrial revolution. GHGs in general and CO2 in
+particular, have become an issue of intense public debate and much
+recent litigation. In Massachusetts vs. the US EPA, the US Supreme
+Court held that CO2 satisfies the definition of "air pollutant" and
+that the EPA has authority to regulate emissions of CO2 and other
+GHGs from new motor vehicles under the CAA (Massachusetts vs. the
+US EPA, 2007). It is important to note that the Court did not rule
+that CO2 and other GHGs were subject to regulation under the CAA,
+nor did the Court require creation of any standards or emission
+control requirements for GHGs.
+
+CO2, CH4, and NO2 are not criteria pollutants for which NAAQS are set,
+nor are they regulated under NSPS, MACT, or any other CAA regulatory
+emission standard or limitation. Therefore, although CO2 was defined
+as being an air pollutant, it is not a regulated air pollutant for
+CAA regulatory and permitting purposes. No regulatory limitations or
+other CAA emission standards apply to CO2, CH4 or NO2.
